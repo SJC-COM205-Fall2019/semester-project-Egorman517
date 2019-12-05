@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+.sidebar ul {
+    height: 48px;
+}
+nav ul li {
+    float: left;
+    text-align: center;
+    width: 192px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #FC76A0;
+    background-color: #F36F71;
+    line-height: 48px;
+}
+nav ul li a:hover {
+}
+.page-container {
+    background-color: #EF47AA;
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    float: right;
+    color: #C121D7;
+}
+.page-container nav img {
+}
+.content-container .main p {
+    color: #6F0A90;
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.page-container header h1 {
+    color: #C0096F;
+}
+
+.content-container .sidebar p {
+    color: #6F0B6F;
+}
+.sidebar ul li {
+    color: #681393;
+}
+.page-container footer {
+    color: #510A5B;
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+    float: right;
+    font-size: large;
+}
+.page-container nav h1 {
+    color: #610D70;
+}
+.page-container nav p {
+    color: #890C96;
+}
+.page-container nav p {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: normal;
+    font-size: large;
+}
+
+.content-container .main h2 {
+    color: #490658;
+    text-decoration: none;
+    text-align: center;
+}
+.main p img {
+}
+.content-container .main p {
+    color: #651267;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: normal;
+    text-decoration: none;
+    font-size: large;
+    background-color: #E3A1D8;
+}
+.page-container header h1 {
+    background-color: #D730B7;
+}
+body footer p {
+    color: #4704EB;
+    background-color: #B724D1;
+}
+.sidebar p a {
+    color: #44007F;
+    background-color: #A24ED9;
+}
+.sidebar p a {
+    color: #9A199E;
+    background-color: #7D1D8E;
+}
+
+
+
+.sidebar p a {
+    background-color: #97529E;
+}
